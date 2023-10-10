@@ -2,7 +2,7 @@
 	position: relative;
 	clear: both;
 	margin: 0 auto;
-	padding: 1em 0 4em;
+	padding: 4em 0;
 	max-width: 1000px;
 	list-style: none;
 	text-align: center;
@@ -93,6 +93,7 @@
 figure.effect-duke {
 	background: -webkit-linear-gradient(-45deg, #34495e 0%,#cc6055 100%);
 	background: linear-gradient(-45deg, #34495e 0%,#cc6055 100%);
+	height: 250px;
 }
 
 figure.effect-duke img,
@@ -117,9 +118,6 @@ figure.effect-duke h2 {
 }
 
 figure.effect-duke p {
-	position: absolute;
-	bottom: 0;
-	left: 0;
 	margin: 20px;
 	padding: 30px;
 	border: 2px solid #fff;
